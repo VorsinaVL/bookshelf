@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\IVC1-5\source\repos\2.1.1_Vorsina\2.1.1_Vorsina\Shelf.h(31,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IVC1-5\source\repos\2.1.1_Vorsina\2.1.1_Vorsina\BookShelf.h(17,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IVC1-5\source\repos\2.1.1_Vorsina\2.1.1_Vorsina\BookShelf.h(30,21): warning C4018: <: несоответствие типов со знаком и без знака
+  2.1.1_Vorsina.vcxproj -> C:\Users\IVC1-5\source\repos\2.1.1_Vorsina\Debug\2.1.1_Vorsina.exe
